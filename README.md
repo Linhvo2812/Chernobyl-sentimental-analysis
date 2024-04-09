@@ -17,6 +17,7 @@ The sentimentr library was employed to classify the sentiment of each review. Th
 A bar chart was then generated to display the distribution of positive versus negative reviews. The visualization revealed that roughly 48% of the total reviews were categorized as positive and around 52% of the total reviews were classified as negative. 
 I also create a scatter plot to show the Spearman Correlation between Sentiment and Rating 
 ![plot](Barplot.png)
+![plot](Spearman.png)
 ## We can interpret from the plot: 
 - There is a variety of sentiment scores associated with each rating level.
 - There is no obvious trend or pattern that indicates a strong relationship between sentiment and ratings.
